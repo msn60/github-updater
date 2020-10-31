@@ -55,7 +55,7 @@ before_script:
       composer global require "phpunit/phpunit:^5"
       ;;
     *)
-      composer global require "phpunit/phpunit:^7"
+      composer global require "phpunit/phpunit:^9"
       ;;
     esac
 
